@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(238, 238, 238);
+}
+
+#skills{
+    background-color: rgb(194, 194, 194);
+}
+#contact div{
+    text-decoration: none;
+    font-size: large;
+    font-weight: bold;
+}
+
+.c-item:hover{
+    box-shadow: 5px 10px 8px;
+    color:silver;
+}
+
+#contact{
+    background-color: #141E61;
+    color: whitesmoke;
+}
+
+#contact a{
+    color: whitesmoke;
+    font-size: large;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.normal-text{
+    font-size: large;
+    font-weight: 500;
+}
+
+.sub-heading{
+    color: #FF5200;
+    font-weight: bold;
+}
+
+.heading{
+    color:#141E61;
+}
